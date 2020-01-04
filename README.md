@@ -1,3 +1,3 @@
-# static assignment imdb
+# static imdb web page
 
-<a href="https://agawankar.github.io/static-assignment-imdb/" target="_blank" > View Demo </a>
+<a href="http://imdb-assign.surge.sh/" target="_blank" > View Demo </a>
